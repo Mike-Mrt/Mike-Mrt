@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# Hi there! 👋
-
 I'm Mike, a Senior Consultant with a love for coding and solving problems. Welcome to my GitHub profile! Here, you'll find some of my projects that reflect my interests and skills.
 
 ## About Me
@@ -13,33 +11,25 @@ I'm Mike, a Senior Consultant with a love for coding and solving problems. Welco
 
 ## Projects
 
-### Project 1: [Project Name 1]
+### Project 1: [Hangman Game](https://github.com/Mike-Mrt/hangman.git)
+- **Description:** A classic Hangman game implemented in Python. Features a simple text-based interface and a variety of word categories.
+- **Repository:** [Link to Project 1 Repository](https://github.com/Mike-Mrt/hangman.git)
+- **Technologies Used:** Python
 
-- [Brief Description of Project 1]
-- [Link to Project Repository]
-- [Demo Link (if applicable)]
-- [Technologies/Libraries Used]
+### Project 2: [Computer Vision Rock-Paper-Scissors](https://github.com/Mike-Mrt/computer-vision-rock-paper-scissors.git)
+- **Description:** A Rock-Paper-Scissors game using computer vision and machine learning to recognize hand gestures.
+- **Repository:** [Link to Project 2 Repository](https://github.com/Mike-Mrt/computer-vision-rock-paper-scissors.git)
+- **Technologies Used:** Python, OpenCV, TensorFlow
 
-### Project 2: [Project Name 2]
+### Project 3: [Multinational Retail Data Centralisation](https://github.com/Mike-Mrt/multinational-retail-data-centralisation.git)
+- **Description:** A data centralization solution for multinational retail chains. Implements data warehousing and ETL processes.
+- **Repository:** [Link to Project 3 Repository](https://github.com/Mike-Mrt/multinational-retail-data-centralisation.git)
+- **Technologies Used:** SQL, Python, ETL Tools
 
-- [Brief Description of Project 2]
-- [Link to Project Repository]
-- [Demo Link (if applicable)]
-- [Technologies/Libraries Used]
-
-### Project 3: [Project Name 3]
-
-- [Brief Description of Project 3]
-- [Link to Project Repository]
-- [Demo Link (if applicable)]
-- [Technologies/Libraries Used]
-
-### Project 4: [Project Name 4]
-
-- [Brief Description of Project 4]
-- [Link to Project Repository]
-- [Demo Link (if applicable)]
-- [Technologies/Libraries Used]
+### Project 4: [Pinterest Data Pipeline](https://github.com/Mike-Mrt/pinterest-data-pipeline.git)
+- **Description:** A data pipeline to analyze Pinterest data. Focuses on data extraction, transformation, and loading for insights.
+- **Repository:** [Link to Project 4 Repository](https://github.com/Mike-Mrt/pinterest-data-pipeline.git)
+- **Technologies Used:** Python, Apache Airflow, SQL
 
 ## Get in Touch
 
